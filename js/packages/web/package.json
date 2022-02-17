@@ -31,7 +31,7 @@
     "less-loader": "^10.0.1",
     "lodash": "^4.17.20",
     "magic-sdk": "^5.1.0",
-    "next": "^11.0.1",
+    "next": "^12.1.0",
     "next-compose-plugins": "^2.2.1",
     "next-with-less": "^1.0.0",
     "react": "17.0.2",
